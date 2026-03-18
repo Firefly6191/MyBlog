@@ -6,7 +6,6 @@ image: \assets\images\cover.avif
 tags: [测试]
 category: 前端开发
 draft: false
-title: 测试
 slug: my-text
 ---
 
